@@ -1,0 +1,11 @@
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\bin\Debug\teclado.exe.config
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\bin\Debug\teclado.exe
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\bin\Debug\teclado.pdb
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\obj\Debug\teclado.csproj.AssemblyReference.cache
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\obj\Debug\teclado.Form1.resources
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\obj\Debug\teclado.Properties.Resources.resources
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\obj\Debug\teclado.csproj.GenerateResource.cache
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\obj\Debug\teclado.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\obj\Debug\teclado.exe
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\obj\Debug\teclado.pdb
+D:\PROYECTOS\Emuladorteclado\emuladorTeclado\teclado\obj\Debug\teclado.csproj.SuggestedBindingRedirects.cache
